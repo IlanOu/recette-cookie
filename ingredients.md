@@ -1,4 +1,4 @@
-- 80g de sucre
+- 70g de sucre
 - vanille
 - farine
 - chocolat
