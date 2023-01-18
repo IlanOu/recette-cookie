@@ -1,8 +1,8 @@
 - 70g de sucre
 - vanille
 - farine
-- chocolat
-- noir
+- pas de chocolat
+- pas de noir
 - sel 
 - levure chimique 
 - beurre 
